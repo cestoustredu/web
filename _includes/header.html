@@ -1,0 +1,60 @@
+<header class="site-header">
+    <div class="header-top">
+        <div class="container">
+            <div class="header-contact">
+                <a href="tel:{{ site.phone | replace: ' ', '' }}" class="contact-item">
+                    <svg class="icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+                    </svg>
+                    {{ site.phone }}
+                </a>
+                <a href="mailto:{{ site.email }}" class="contact-item">
+                    <svg class="icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                        <polyline points="22,6 12,13 2,6"/>
+                    </svg>
+                    {{ site.email }}
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="header-main">
+        <div class="container">
+            <div class="header-content">
+                <a href="{{ '/' | relative_url }}" class="site-logo">
+                    <svg class="logo-icon" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="50" cy="50" r="45" fill="none" stroke="url(#logoGradient)" stroke-width="3"/>
+                        <path d="M50,30 Q60,40 50,50 Q40,40 50,30 M50,50 Q60,60 50,70 Q40,60 50,50 M30,50 Q40,40 50,50 Q40,60 30,50 M70,50 Q60,40 50,50 Q60,60 70,50" fill="url(#logoGradient)" opacity="0.8"/>
+                        <circle cx="50" cy="50" r="8" fill="url(#logoGradient)"/>
+                        <defs>
+                            <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#9d7bb0;stop-opacity:1" />
+                                <stop offset="50%" style="stop-color:#7c5295;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#6b8e6f;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                    <h1>{{ site.title }}</h1>
+                </a>
+                
+                <nav class="site-nav">
+                    <button class="nav-toggle" aria-label="Toggle navigation">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <ul class="nav-menu">
+                        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Domů</a></li>
+                        <li><a href="{{ '/certifikace/' | relative_url }}" {% if page.url contains '/certifikace' %}class="active"{% endif %}>Certifikace</a></li>
+                        <li><a href="{{ '/sluzby/' | relative_url }}" {% if page.url contains '/sluzby' %}class="active"{% endif %}>Co nabízím</a></li>
+                        <li><a href="{{ '/biorezonance/' | relative_url }}" {% if page.url contains '/biorezonance' %}class="active"{% endif %}>Biorezonance</a></li>
+                        <li><a href="{{ '/metody/' | relative_url }}" {% if page.url contains '/metody' %}class="active"{% endif %}>Metody</a></li>
+                        <li><a href="{{ '/cenik/' | relative_url }}" {% if page.url contains '/cenik' %}class="active"{% endif %}>Ceník</a></li>
+                        <li><a href="{{ '/kontakt/' | relative_url }}" {% if page.url contains '/kontakt' %}class="active"{% endif %}>Kontakt</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>

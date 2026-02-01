@@ -1,0 +1,38 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>{{ site.title }}</h3>
+                <p>{{ site.description }}</p>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Kontakt</h4>
+                <p>
+                    <a href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a><br>
+                    <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+                    {{ site.address }}<br>
+                    {{ site.city }}
+                </p>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Odkazy</h4>
+                <ul>
+                    <li><a href="{{ '/' | relative_url }}">Domů</a></li>
+                    <li><a href="{{ '/sluzby/' | relative_url }}">Co nabízím</a></li>
+                    <li><a href="{{ '/cenik/' | relative_url }}">Ceník</a></li>
+                    <li><a href="{{ '/kontakt/' | relative_url }}">Kontakt</a></li>
+                    <li><a href="{{ '/gdpr/' | relative_url }}">Ochrana osobních údajů</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. Všechna práva vyhrazena.</p>
+            <p style="font-size: 0.75rem; opacity: 0.6; margin-top: 0.5rem;">
+                Photo by <a href="https://unsplash.com/@rrrob_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" style="color: inherit;">Rob</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-bunch-of-mushrooms-on-a-mossy-surface-o3QdK-LTfRY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" style="color: inherit;">Unsplash</a>
+            </p>
+        </div>
+    </div>
+</footer>

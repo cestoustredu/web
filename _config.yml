@@ -1,0 +1,48 @@
+# Konfigurace webu Cestou Středu
+title: "Cestou Středu"
+description: "Celostní poradenství pro podporu zdraví, rovnováhy a vitality"
+url: "https://www.cestoustredu.cz"
+baseurl: ""
+
+# Kontaktní informace
+email: "info@cestoustredu.cz"
+phone: "+420 XXX XXX XXX"
+address: "Adresa ordinace"
+city: "Praha"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Collections
+collections:
+  services:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
