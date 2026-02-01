@@ -2,6 +2,7 @@
 layout: page
 title: Co nabízím
 subtitle: Moje služby a průběh návštěvy
+permalink: /sluzby/
 ---
 
 ## Individuální konzultace

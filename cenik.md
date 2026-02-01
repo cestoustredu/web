@@ -2,6 +2,7 @@
 layout: page
 title: Ceník
 subtitle: Přehled služeb a cen
+permalink: /cenik/
 ---
 
 <div class="pricing-table">

@@ -41,7 +41,6 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      permalink: /:basename/
   - scope:
       path: ""
       type: "services"

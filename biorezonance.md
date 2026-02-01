@@ -2,6 +2,7 @@
 layout: page
 title: Biorezonance
 subtitle: Moderní diagnostické a harmonizační metody
+permalink: /biorezonance/
 ---
 
 Biorezonance je neinvazivní metoda, která využívá elektromagnetické frekvence pro diagnostiku 

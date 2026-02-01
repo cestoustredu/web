@@ -2,6 +2,7 @@
 layout: page
 title: Certifikace
 subtitle: Moje vzdělání a kvalifikace
+permalink: /certifikace/
 ---
 
 <div class="certificates-grid">

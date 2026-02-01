@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Ochrana osobních údajů
-subtitle: Zásady zpracování osobních údajů (GDPR)
----
+subtitle: Zásady zpracování osobních údajů (GDPR)permalink: /gdpr/---
 
 Vážím si vaší důvěry a beru ochranu vašich osobních údajů velmi vážně. Tento dokument 
 vysvětluje, jak nakládám s osobními údaji, které mi svěříte.

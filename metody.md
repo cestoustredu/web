@@ -2,6 +2,7 @@
 layout: page
 title: Metody a přípravky
 subtitle: Přírodní cesta k zdraví
+permalink: /metody/
 ---
 
 V rámci celostního přístupu využívám širokou škálu přírodních metod a prostředků, 

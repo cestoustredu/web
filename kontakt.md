@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt
 subtitle: Těším se na setkání s vámi
+permalink: /kontakt/
 ---
 
 <div class="cards-grid" style="margin: 2rem 0;">
