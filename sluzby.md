@@ -1,14 +1,14 @@
+
 ---
 layout: page
 title: Co nabízím
-subtitle: Moje služby a průběh návštěvy
+subtitle:Jak konzultace probíhá
 permalink: /sluzby/
 ---
 
 ## Individuální konzultace
 
-Každá konzultace je zcela individuální a přizpůsobená vašim potřebám. Věnuji se komplexnímu 
-zhodnocení vašeho zdravotního stavu a hledání cesty k jeho zlepšení.
+Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu a hledám a navrhuji cesty k jeho zlepšení.Při konzultaci kromě biorezonance  využívám znalostí principů Tradiční čínské medicíny, jednotlivých vitálních hub a tinktur, bylin, přípravků informační medicíny Joalis, Bachových esencí, systému buněčných solí dr.Schüslera či bylinných kúr paní Podhorné či bylináře Jukla a další .Využívám i sílu  přírodních mastí a vybraných přírodních darů ze SríLanky.
 
 ### Jak probíhá návštěva
 

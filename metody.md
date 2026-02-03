@@ -5,8 +5,7 @@ subtitle: Přírodní cesta k zdraví
 permalink: /metody/
 ---
 
-V rámci celostního přístupu využívám širokou škálu přírodních metod a prostředků, 
-které podporují přirozené regenerační a samoléčebné schopnosti organismu.
+ V rámci celostního přístupu využívám širokou škálu přírodních metod a prostředků, které podporují přirozené regenerační a samoléčebné schopnosti organismu.
 
 ## Mycoterapie - Vitální houby
 
