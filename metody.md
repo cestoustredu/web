@@ -4,18 +4,17 @@ title: Přírodní podpora organismu
 subtitle: Přirozená cesta k zdraví
 permalink: /metody/
 ---
-
- V rámci celostního přístupu využívám širokou škálu přírodních metod a podpůrných doplňků stravy, které podporují přirozené regenerační a samoléčebné schopnosti organismu.
+    V rámci celostního přístupu využívám širokou škálu přírodních metod a podpůrných doplňků stravy, které podporují přirozené regenerační a samoléčebné schopnosti organismu.
 
 ## Mycoterapie - Vitální houby
    Yaoterapie  - Čínské byliny a tinktury
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <h3>Co je mycoterapie?</h3>
     <p>
-    Mykoterapie je metoda inspirovaná především tradiční čínskou medicínou, ale opírá se i o moderní poznatky biochemie a imunologie. Vitální houby zde fungují jako adaptogeny – pomáhají tělu lépe se přizpůsobit zátěži a vracet se do STŘEDU tj. do rovnováhy.
+    Mycoterapie je metoda inspirovaná především tradiční čínskou medicínou, ale opírá se i o moderní poznatky biochemie a imunologie. Vitální houby zde fungují jako adaptogeny – pomáhají tělu lépe se přizpůsobit zátěži a vracet se do středu tj. do rovnováhy.
     Nejde o „zázračné léčení“, ale o jemnou a dlouhodobou podporu přirozených procesů v těle.
     </p>
-    Mykoterapie může být vhodná:
+    Mycoterapie může být vhodná:
 
     při dlouhodobé únavě a vyčerpání
     při opakovaných infekcích
@@ -26,9 +25,9 @@ permalink: /metody/
 
     Vždy se přizpůsobuje konkrétnímu člověku, jeho stavu a potřebám.
 
-    Jak konzultace mykoterapie a yaoterapie probíhá
+    Jak konzultace mykoterapie a yaoterapie probíhá ?
 
-    Ve vzájemném rozhovoru se zaměřuji na celkový stav těla i psychiky – jak se cítíte, jak spíte, jak zvládáte stres, jak funguje trávení a kde může být organismus dlouhodobě přetížený.Poté vybírám konkrétní vitální houby a bylinné tinktury na míru, ne „univerzální kombinace“. Pracuji s kvalitními produkty MycoMedica, které mají ověřený původ a vysokou účinnost. Dávkování i délku užívání přizpůsobuji vašemu stavu a reakci těla. Sleduji průběh a vnímám jemné změny – fyzické i psychické.
+    Ve vzájemném rozhovoru, při kterém se zaměřuji na celkový stav těla i psychiky – jak se cítíte, jak spíte, jak zvládáte stres, jak funguje trávení a kde může být organismus dlouhodobě přetížený.Poté vybírám konkrétní vitální houby a bylinné tinktury na míru, ne „univerzální kombinace“. Pracuji s kvalitními produkty MycoMedica, které mají ověřený původ a vysokou účinnost. Dávkování i délku užívání přizpůsobuji vašemu stavu a reakci těla. Sleduji průběh a vnímám jemné změny – fyzické i psychické.
 
 
 
@@ -43,8 +42,8 @@ permalink: /metody/
         <li>Podpora léčby chronických onemocnění</li>
     </ul>
     
-    <h4 style="margin-top: 2rem;">Nejčastěji používané houby:</h4>
-    <p>Reishi, Cordyceps, Hericium, Shiitake, Maitake, Chaga a další.</p>
+    <h4 style="margin-top: 2rem;">Mé nejoblíbenější houbičky a tinktury:</h4>
+    <p>Reishi, Coriolus, Hericium, Tremella, Chaga , Nosní vánek. Rozbití okovů, Nefritový závoj další.</p>
 </div>
 
 ## Informační medicína Joalis
