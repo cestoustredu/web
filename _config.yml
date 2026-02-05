@@ -7,8 +7,9 @@ baseurl: ""
 # Kontaktní informace
 email: "info@cestoustredu.cz"
 phone: "+420 739 339 975"
-address: "Adresa ordinace"
-city: "Praha"
+address: Cestou Středu
+         Vančurova 97/3
+city:    Slaný
 
 # Build settings
 markdown: kramdown

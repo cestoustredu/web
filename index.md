@@ -5,7 +5,7 @@ layout: default
 <section class="hero">
     <div class="container">
         <h1>Cesta ke středu</h1>
-        <p>Harmonii těla, mysli a duše</p>
+        <p>.K harmonii těla, mysli a duše</p>
     </div>
 </section>
 
@@ -17,7 +17,7 @@ layout: default
             <p>
                 Nabízím <strong>celostní poradenství</strong> pro podporu zdraví, rovnováhy a vitality. 
                 Vycházím z principů <strong>tradiční čínské medicíny</strong>, <strong>biorezonance</strong> 
-                a přírodních prostředků, jako jsou vitální houby, evropské a čínské léčivé byliny (yao), 
+                a přírodních produktů, jako jsou vitální houby, evropské a čínské léčivé byliny (yao), 
                 informační přípravky Joalis, Schüslerovy tkáňové soli, Bachovy květové esence a další.
             </p>
             
@@ -35,34 +35,34 @@ layout: default
 
 <section class="services-section">
     <div class="container">
-        <h2 class="section-title">Hlavní metody</h2>
+        <h2 class="section-title">Používané metody</h2>
         
         <div class="cards-grid">
             <div class="card">
                 <div class="card-icon">✨</div>
                 <h3>Biorezonance</h3>
-                <p>Diagnostika a harmonizace pomocí moderních biorezonančních přístrojů včetně Oberonu, plazma FQ Qmtrin a kvantové analýzy.</p>
+                <p>Diagnostika a harmonizace pomocí moderních biorezonančních přístrojů jako je Oberon Quantum, frekvenční generátor FQ Qmtrin (plazma),kvantový analyzátor magnetické rezonance Quantum YK4 a Heart Vision .</p>
                 <a href="{{ '/biorezonance/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
             
             <div class="card">
                 <div class="card-icon">🍄</div>
-                <h3>Mycoterapie</h3>
-                <p>Léčení pomocí vitálních hub, které podporují imunitní systém a celkovou vitalitu organismu.</p>
+                <h3>Mycoterapie a Yaoterapie</h3>
+                <p>Léčení pomocí vitálních hub a bylinných receptur tradiční činské medicíny, které podporují imunitní systém a celkovou vitalitu organismu v chronické i akutní nemoci</p>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
             
             <div class="card">
                 <div class="card-icon">🌿</div>
-                <h3>Přírodní medicína</h3>
-                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou.</p>
+                <h3>Přírodní podpora </h3>
+                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a využití samoléčebnych schopností našeho těla.</p>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
             
             <div class="card">
                 <div class="card-icon">🌸</div>
-                <h3>Informační medicína</h3>
-                <p>Joalis přípravky, Schüslerovy tkáňové soli a Bachovy květové esence pro energetickou rovnováhu.</p>
+                <h3>Další používané doplňky stravy</h3>
+                <p>Joalis - produkty informační medicíny, Schüslerovy tkáňové soli Biomineral.sk, Bachovy květové esence, Energy či Duhové elixíry Martina Kolára, vybrané produkty ze Srílanky, přírodní masti. </p>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
         </div>
