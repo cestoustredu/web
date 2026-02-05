@@ -12,7 +12,7 @@ permalink: /kontakt/
             <a href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a>
         </p>
         <p style="font-size: 0.9rem; color: var(--text-light);">
-            Volejte pro objednání nebo dotazy<br>
+            Pro objednání pište sms, email či využijte whatsapp případně volejte. <br>
             Po–Pá: 9:00–18:00
         </p>
     </div>
@@ -34,7 +34,7 @@ permalink: /kontakt/
             {{ site.city }}
         </p>
         <p style="font-size: 0.9rem; color: var(--text-light);">
-            Parkování v blízkosti ordinace
+            Parkování u domu. Bezbarierový přístup.
         </p>
     </div>
 </div>
@@ -42,8 +42,8 @@ permalink: /kontakt/
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0; max-width: 800px; margin-left: auto; margin-right: auto;">
     <h3 class="text-center">Objednání návštěvy</h3>
     <p class="text-center" style="margin-bottom: 2rem;">
-        Pro objednání konzultace mě prosím kontaktujte telefonicky nebo emailem. 
-        Společně najdeme vhodný termín a probereme vaše potřeby.
+        Pro objednání konzultace mě,prosím, kontaktujte sms, whatsapp  nebo emailem. V akutních případech telefonicky.
+        Společně najdeme vhodný termín a čas.
     </p>
     
     <div style="text-align: center;">
@@ -103,7 +103,7 @@ permalink: /kontakt/
         </tbody>
     </table>
     <p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--text-light);">
-        <em>* Ordinační hodiny jsou orientační. Konzultace probíhají na objednání.</em>
+        <em>*  Konzultace probíhají na objednání.</em>
     </p>
 </div>
 
