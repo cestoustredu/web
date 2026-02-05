@@ -3,10 +3,10 @@ layout: default
 ---
 
 <section class="hero">
-        <h1> Návrat k rovnováze těla i duše ~ do svého středu</h1>
+        <h1> Návrat k rovnováze těla i duše </h1>
     <div class="container">
-        <p>.Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky/p>
-    </div>
+        <p>.Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky
+    
 </section>
 
 <section class="container" style="padding: 3rem 0;">
@@ -17,8 +17,7 @@ layout: default
             <p>
                 Nabízím <strong>celostní poradenství</strong> pro podporu zdraví, rovnováhy a vitality. 
                 Vycházím z principů <strong>tradiční čínské medicíny</strong>, <strong>biorezonance</strong> 
-                a přírodních produktů, jako jsou vitální houby, evropské a čínské léčivé byliny (yao), 
-                informační přípravky Joalis, Schüslerovy tkáňové soli, Bachovy květové esence a další.
+                a přírodních produktů jako jsou vitální houby, evropské a čínské léčivé byliny (yao), informační přípravky Joalis, Schüslerovy tkáňové soli, Bachovy květové esence a další.
             </p>
             
             <p class="text-center" style="font-size: 1.25rem; color: var(--primary-color); margin: 2rem 0; font-style: italic;">
