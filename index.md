@@ -3,9 +3,9 @@ layout: default
 ---
 
 <section class="hero">
+        <h1> Návrat k rovnováze těla i duše ~ do svého středu</h1>
     <div class="container">
-        <h1>Cesta ke středu</h1>
-        <p>.K harmonii těla, mysli a duše</p>
+        <p>.Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky/p>
     </div>
 </section>
 
