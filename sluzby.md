@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Co nabízím
-subtitle:Jak konzultace probíhá
+subtitle: Jak konzultace probíhá
 permalink: /sluzby/
 ---
 
