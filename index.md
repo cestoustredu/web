@@ -5,7 +5,8 @@ layout: default
 <section class="hero">
         <h1> Návrat k rovnováze těla i duše </h1>
     <div class="container">
-        <p>.Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky
+        <p>Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky</p>
+    </div>
     
 </section>
 
