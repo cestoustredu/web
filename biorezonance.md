@@ -8,9 +8,10 @@ permalink: /biorezonance/
 Biorezonance je neinvazivní metoda, která využívá elektromagnetické frekvence pro 
 diagnostiku a harmonizaci organismu. Pomáhá odhalit skryté příčiny zdravotních potíží a podporuje přirozené samoregulační procesy těla.
 
-## Metody biorezonance
 
-### Oberon - Kvantová diagnostika a terapie
+
+### Oberon Quantum 
+Kvantová diagnostika a terapie
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
   <p>
@@ -35,27 +36,30 @@ Jak píše MUDr. Miroslav Pekárek ve své knize Tajemství života a naděje o 
 
 
 
-### Plazma FQ Qmtrin
+### Frekvenční generátor FQ Qmtrin 
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <p>
-        Pokročilá technologie plazmatické biorezonance pro:
-    </p>
-    <ul class="service-list">
-        <li>Harmonizaci energetického pole organismu</li>
-        <li>Podporu detoxikace</li>
-        <li>Posílení imunitního systému</li>
-        <li>Regeneraci a revitalizaci</li>
-        <li>Zklidnění nervového systému</li>
-    </ul>
+        FQ Qmtrin® Quantum Harmony je přístroj, který využívá nejnovější vědecké a fyzikální teorie a poznatky k obnovení a nastolení harmonie, k hubení patogenů, k detoxikaci a regeneraci. Součástí FQ Qmtrin® je i frekvenční přístroj na principu plazmového generátoru jako oblíbeného prostředku pro frekvenční terapie. Konstrukce FQ Qmtrin® je však zcela odlišná a nesrovnatelná.
+
+FQ Qmtrin® Quantum Harmony nevysílá žádné rušivé nebo dokonce škodlivé nosné nebo pomocné signály nebo záření.
+
+FQ frequency generator Qmtrin® je mnohem dál, než původně uvažoval objevitel plasma generátoru Dr. Rife. Oblast působení FQ Qmtrin® Quantum Harmony je mnohem širší a především působí komplexně i v nesrovnatelně vyšších a nesrovnatelně jemnějších vrstvách a strukturách. Dosahuje až do dosud nedostupných oblastí.
+FQ Qmtrin® Quantum Harmony nemá za cíl pouze hubit patogeny, to by bylo málo, i když prospěšné. FQ Qmtrin® působí komplexně od samé podstaty, od nejvyšších, od nejjemnějších struktur, od kvantového pozadí, přes jednotlivé složky (hormony, imunita,..), až k nejhrubším složkám (likvidace patogenů, detoxikace,…) jako celku. Tím je zajištěna jeho vysoká účinnost.
+
+Harmonizuje, slaďuje, likviduje patogeny, detoxikuje, aktivně využívá biorezonanci, řeší psychosomatiku.
+
+FQ Qmtrin® eliminuje disharmonie způsobené přetížením např. toxiny a patogeny, přetížením psychickým, fyzickým, ale i společenským. Likviduje patogeny, detoxikuje, vede k aktivaci a k využití regeneračních procesů, odolnosti, ale i ke schopnosti adekvátně reagovat na vnější podněty a situace včetně náročných a krizových.
+
+    
 </div>
 
-### Kvantová analýza funkčního stavu organismu
-
+### Kvantový analyzátor magnetické rezonance - Kondiční orgánový scaner  QUANTUM YK4
+ 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <p>
-        Rychlá neinvazivní analýza, která během několika minut poskytuje komplexní 
-        přehled o stavu:
+    Přístroj, který umožňuje změřit aktuální energetický stav těla v celkem 180 parametrech, přičemž měření trvá necelou 1 minutu. Vystačí podržet půlenou elektrodu v dlani.řístroj je někdy nazýván „malá MR“. QMRA integruje výsledky lékařské vědy, informatiky, elektroniky, biokybernetiky apod. Teoretickým základem fungování QMRA je kvantová medicína, přístroj využívá nejmodernější elektromagnetické technologie pro analýzu slabého, nevyváženého magnetického pole buněk. Vyšetření pomocí QMRA je neinvazívní a rychlý způsob na vyhodnocení funkčnosti těla.
+        Analýza, která během několika minut poskytuje komplexní přehled o stavu:
     </p>
     <ul class="service-list">
         <li>Kardiovaskulárního systému</li>
