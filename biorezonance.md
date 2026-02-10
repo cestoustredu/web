@@ -5,30 +5,21 @@ subtitle: Moderní diagnostické a harmonizační metody
 permalink: /biorezonance/
 ---
 
-        Biorezonance je zcela bezpečná, neinvazivní metoda, která využívá elektromagnetické frekvence pro diagnostiku a harmonizaci organismu. Pomáhá odhalit skryté příčiny zdravotních potíží a podporuje přirozené samoregulační procesy těla.Je vhodná pro všechny věkové kategorie. 
+ Biorezonance je zcela bezpečná, neinvazivní metoda, která využívá elektromagnetické frekvence pro diagnostiku a harmonizaci organismu. Pomáhá odhalit skryté příčiny zdravotních potíží a podporuje přirozené samoregulační procesy těla.Je vhodná pro všechny věkové kategorie. 
 
 ## Jak biorezonance funguje
 
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 2rem 0;">
-    <p>
-        Každá buňka, tkáň a orgán v našem těle vibruje na specifické frekvenci. 
-        Biorezonance tyto frekvence snímá a analyzuje. Pokud jsou frekvence narušené (například nemocí, toxiny nebo stresem), biorezonanční přístroj to dokáže zjistit a následně pomoci organismu vrátit se do harmonického stavu vysíláním vhodných 
-        korektivních frekvencí.
-    </p>
-    <p>
-        Jedná se o zcela bezpečnou, neinvazivní a bezbolestnou metodu vhodnou pro všechny 
-        věkové kategorie.
-    </p>
-</div>
+   <p>
+Každá buňka, tkáň a orgán v našem těle vibruje na specifické frekvenci. Biorezonance tyto frekvence snímá a analyzuje. Pokud jsou frekvence narušené (například nemocí, toxiny nebo stresem), biorezonanční přístroj to dokáže zjistit a následně pomoci organismu vrátit se do harmonického stavu vysíláním vhodných korektivních frekvencí.
+    
 
-
-### Oberon Quantum 
-Kvantová diagnostika a terapie
+### Oberon Quantum - Kvantová diagnostika a terapie
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
   <p>
-        Přístroj Oberon Quantum je systém fungující na principu nelineární analýzy (NLS),který dokáže zmapovat informace z těla i energetického pole člověka. 
-        Funguje na základě kvantové fyziky ve spojení s energetickýcm napojením terapeuta. Skrze  napojení na terapeuta tak dokaže pracovat i bez fyzické přitomnosti klienta, protože v kvantové realitě neexistuje vzdálenost ani čas. Můžeme tedy analyzovat  i harmonizovat "na dálku". Oberon dokáže odhalit:
+Přístroj Oberon Quantum je systém fungující na principu nelineární analýzy (NLS),který dokáže zmapovat informace z těla i energetického pole člověka. 
+Funguje na základě kvantové fyziky ve spojení s energetickýcm napojením terapeuta. Skrze  napojení na terapeuta tak dokaže pracovat i bez fyzické přitomnosti klienta, protože v kvantové realitě neexistuje vzdálenost ani čas. Můžeme tedy analyzovat  i harmonizovat "na dálku". Oberon dokáže odhalit:
     </p>
     <ul class="service-list">
         <li>Funkční stav orgánů a systémů</li>
@@ -38,7 +29,8 @@ Kvantová diagnostika a terapie
         <li>Nedostatek vitamínů a minerálů</li>
         <li>Vhodné potraviny a doplňky stravy</li>
     </ul>
-</div> Díky tomu, že má každý patogen(plísně, viry, bakterie, paraziti či nemoc) svoji vlastní frekvenci, dokáže Oberon( či plazma nebo kvantový analyzátor) popsat aktuální stav organismu, dokonce umí udělat predikci možných budoucích onemocnění(a to až 5 let předem). Takže člověk má šanci změnit svůj životní styl. Zjištěné  frekvence dále použije k metaterapii, což neznamená,že udělá práci za nás, ale podpoří samoléčebný potenciál, nabídne tělu potřebné frekvence a tak jej vede k detoxikaci, k regeneraci a k vymazání záznamu o nemoci. Nekdy stačí k vymizení problému jedna terapie jindy více. Při metaterapii může klient sledovat reakce sveho organismu na obrazovce. Tělo jedince po terapii s nahranými frekvencemi 2-4 týdny pracuje.Navíc může terapeut v rámci metaterapie přidat mnoho bodů, do nichž jsou frekvence posílány a tím terapii zesílí. Můžu také takzvaně zafixovat působení do konkrétního bodu,(napr.cysta či enrgeticky oslabený orgán).Pracovat je možné jak na chronických,tak na akutních potížích, Oberon lze využít terapeuticky i preventivně. 
+</div
+ Díky tomu, že má každý patogen(plísně, viry, bakterie, paraziti či nemoc) svoji vlastní frekvenci, dokáže Oberon( či plazma nebo kvantový analyzátor) popsat aktuální stav organismu, dokonce umí udělat predikci možných budoucích onemocnění(a to až 5 let předem). Takže člověk má šanci změnit svůj životní styl. Zjištěné  frekvence dále použije k metaterapii, což neznamená,že udělá práci za nás, ale podpoří samoléčebný potenciál, nabídne tělu potřebné frekvence a tak jej vede k detoxikaci, k regeneraci a k vymazání záznamu o nemoci. Nekdy stačí k vymizení problému jedna terapie jindy více. Při metaterapii může klient sledovat reakce sveho organismu na obrazovce. Tělo jedince po terapii s nahranými frekvencemi 2-4 týdny pracuje.Navíc může terapeut v rámci metaterapie přidat mnoho bodů, do nichž jsou frekvence posílány a tím terapii zesílí. Můžu také takzvaně zafixovat působení do konkrétního bodu,(napr.cysta či enrgeticky oslabený orgán).Pracovat je možné jak na chronických,tak na akutních potížích, Oberon lze využít terapeuticky i preventivně. 
 
 Přístroj Oberon Systém Quantum patří v celostní a přírodní medicíně k nejmodernějším přístrojům. Vyhodnocování energetického stavu lidského organismu je prováděno porovnáním dat diagramu (grafu) s etalony (vzorky) uložené v databázi softwaru. Takto je možno zachytit stavy a změny vlnových charakteristik různých tělních tkání a orgánů. Každý živý orgán funguje na své vlastní frekvenci (oscilaci). Podle frekvenčních vlastností, analyzuje počítačová diagnostika funkční aktivitu orgánů, tkání a systémů člověka a porovnává je s fyziologickými hodnotami, které jsou uloženy v softwaru Oberonu. Přístroj bezkontaktně monitoruje životní procesy, poukazuje na možné narušení homeostázy, stanoví konkrétní energetické zátěže a zjišťuje narušení vzájemného propojení v systémech organismu.
 
@@ -67,7 +59,7 @@ FQ Qmtrin® eliminuje disharmonie způsobené přetížením např.toxiny a pato
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
   <p
 Přístroj, který umožňuje změřit aktuální energetický stav těla v celkem 180 parametrech, přičemž měření trvá necelou 1 minutu. Stačí podržet půlenou elektrodu v dlani. Přístroj je někdy nazýván „malá MR“. QMRA integruje výsledky lékařské vědy, informatiky, elektroniky, biokybernetiky apod. Teoretickým základem fungování QMRA je kvantová medicína, přístroj využívá nejmodernější elektromagnetické technologie pro analýzu slabého, nevyváženého magnetického pole buněk. Vyšetření pomocí QMRA je neinvazívní a rychlý způsob na vyhodnocení funkčnosti těla.
- Analýza, která během několika minut poskytuje komplexní přehled o stavu:
+Analýza, která během několika minut poskytuje komplexní přehled o stavu:
  </p>
 <ul class="service-list">
     <li>Kardiovaskulárního systému</li>

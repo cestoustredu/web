@@ -12,8 +12,8 @@ permalink: /kontakt/
             <a href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a>
         </p>
         <p style="font-size: 0.9rem; color: var(--text-light);">
-            Pro objednání pište sms, email či využijte whatsapp případně volejte. <br>
-            Po–Pá: 9:00–18:00
+            Pro objednání, prosím, pište sms, email či využijte whatsapp, případně volejte. Ozvu se vám, jakmile to bude možné. <br>
+            Po–Pá: 9:00–18:00 
         </p>
     </div>
     
@@ -23,7 +23,7 @@ permalink: /kontakt/
             <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </p>
         <p style="font-size: 0.9rem; color: var(--text-light);">
-            Odpovídám obvykle do 24 hodin
+            
         </p>
     </div>
     
@@ -42,7 +42,7 @@ permalink: /kontakt/
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0; max-width: 800px; margin-left: auto; margin-right: auto;">
     <h3 class="text-center">Objednání návštěvy</h3>
     <p class="text-center" style="margin-bottom: 2rem;">
-        Pro objednání konzultace mě,prosím, kontaktujte sms, whatsapp  nebo emailem. V akutních případech telefonicky.
+        Pro objednání konzultace mě,prosím, kontaktujte sms, whatsapp  nebo emailem. Případně telefonicky, ozvu se vám, jakmile to bude možné.
         Společně najdeme vhodný termín a čas.
     </p>
     
@@ -67,43 +67,8 @@ permalink: /kontakt/
         </p>
     </div>
 </div>
-
-<div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 3rem 0; max-width: 800px; margin-left: auto; margin-right: auto;">
-    <h3>Ordinační hodiny</h3>
-    <table style="width: 100%; margin-top: 1rem;">
-        <tbody>
-            <tr style="border-bottom: 1px solid var(--border-color);">
-                <td style="padding: 0.75rem;">Pondělí</td>
-                <td style="padding: 0.75rem; text-align: right;">9:00 – 18:00</td>
-            </tr>
-            <tr style="border-bottom: 1px solid var(--border-color);">
-                <td style="padding: 0.75rem;">Úterý</td>
-                <td style="padding: 0.75rem; text-align: right;">9:00 – 18:00</td>
-            </tr>
-            <tr style="border-bottom: 1px solid var(--border-color);">
-                <td style="padding: 0.75rem;">Středa</td>
-                <td style="padding: 0.75rem; text-align: right;">9:00 – 18:00</td>
-            </tr>
-            <tr style="border-bottom: 1px solid var(--border-color);">
-                <td style="padding: 0.75rem;">Čtvrtek</td>
-                <td style="padding: 0.75rem; text-align: right;">9:00 – 18:00</td>
-            </tr>
-            <tr style="border-bottom: 1px solid var(--border-color);">
-                <td style="padding: 0.75rem;">Pátek</td>
-                <td style="padding: 0.75rem; text-align: right;">9:00 – 16:00</td>
-            </tr>
-            <tr style="border-bottom: 1px solid var(--border-color);">
-                <td style="padding: 0.75rem;">Sobota</td>
-                <td style="padding: 0.75rem; text-align: right;">Po domluvě</td>
-            </tr>
-            <tr>
-                <td style="padding: 0.75rem;">Neděle</td>
-                <td style="padding: 0.75rem; text-align: right;">Zavřeno</td>
-            </tr>
-        </tbody>
-    </table>
     <p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--text-light);">
-        <em>*  Konzultace probíhají na objednání.</em>
+        <em>*  Konzultace probíhají dle objednání či domluvy.</em>
     </p>
 </div>
 
