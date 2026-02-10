@@ -133,8 +133,8 @@ Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznán
     
     <h3 style="margin-top: 2rem;">Adaptogeny</h3>
     <p>
-        Adaptogeny jsou přírodní látky (rostliny a houby), které pomáhají zvyšovat odolnost organismu vůči stresu, podporují imunitní systém, zlepšují činnost nervově, trávicí a kardiovaskulární soustava, vyrovnávají hormonální hladiny.Pozitivně ovlivňují kognitivní funkce mozku, zpomalují stárnutí a přispívají k obnově rovnováhy v těle. Čili vracejí organismusmus na výše zmíněnou "cestu středu". Mezi nejznámější patří ženšen, rhodiola, ashwagandha, 
-        cordyceps a další.
+        Adaptogeny jsou přírodní látky (rostliny a houby), které pomáhají zvyšovat odolnost organismu vůči stresu, podporují imunitní systém, zlepšují činnost nervové, trávicí a kardiovaskulární soustava, vyrovnávají hormonální hladiny.Pozitivně ovlivňují kognitivní funkce mozku, zpomalují stárnutí a přispívají k obnově rovnováhy v těle. Čili vracejí organismusmus na výše zmíněnou "cestu středu". Mezi nejznámější patří ženšen, rhodiola, ashwagandha, 
+        chaga, gynostemma, kustovnice a další.
     </p>
     
     <h4 style="margin-top: 2rem;">Účinky adaptogenů:</h4>
@@ -151,6 +151,13 @@ Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznán
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <p>
+     Rychlý 5 minutový záznam - EKG snímá 300 tepů srdce
+     Analyzuje funkční stav těla a sílu i adaptaci regulačních systémů
+     Vyhodnocuje reakci tělesných systémů na různé zátěže nebo terapie
+     Analyzuje funkci bloudivého nervu - klíč k relaxaci a odolnosti těla 
+     Měří mnoho důležitých parametrů a indexů lidského organismu
+     Nejlepší metoda pro detekci akutního a chronického stresu
+     Umožňuje odhalit nemoc dříve, než se objeví první příznaky
         Měření variability srdeční frekvence odhaluje:
     </p>
     <ul class="service-list">
