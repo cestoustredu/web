@@ -14,7 +14,7 @@ Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji
 <div class="cards-grid" style="margin: 2rem 0;">
     <div class="card">
     
-    Čas s klientem je hodně individuální,dle potíží a výběru služby. Mycoterapie (či výber jiných produktů pro zdraví) vyžaduje rozhovor 30 - 60 minut.
+ Čas s klientem je hodně individuální,dle potíží a výběru služby. Mycoterapie (či výber jiných produktů pro zdraví) vyžaduje rozhovor 30 - 60 minut.
 Komplexní konzultace (setkání) většinou trvá 2 - 2,5 hodiny.
 Prvním rozhovorem zjistím, co vás trápí a poté
 provádím screeningovou energeticko-informační analýzu (NLS) a harmonizaci na přístroji OBERON, kde zjišťuji mimo jiné komplexní energetické zatížení organismu ( plísně, bakterie, paraziti atd.) emoční stres, stav jednotlivých energetických drah (pentagram pěti prvků), energetické blokády atd. 

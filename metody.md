@@ -54,7 +54,7 @@ permalink: /metody/
     <p>
         Joalis je unikátní systém informační medicíny vycházející z poznatků tradiční 
         čínské medicíny a moderní kvantové fyziky. Přípravky Joalis působí na informační 
-        úrovni a pomáhají organismu odstranit energetické blokády a toxiny.
+        úrovni a pomáhají organismu odstranit energetické blokády a toxiny. Jejich autorem je Mudr.Josef Jonáš (metoda řízené detoxikace).
     </p>
     
     <h4 style="margin-top: 2rem;">Principy Joalis:</h4>
@@ -72,8 +72,11 @@ permalink: /metody/
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <h3>Biochemie podle Dr. Schüslera</h3>
     <p>
-        Schüslerovy soli jsou minerální látky v homeopatickém zředění, které pomáhají 
-        organismu lépe vstřebávat a využívat minerály přijaté v potravě.
+        Schüsslerovy soli jsou minerální soli používané k podpoře buněčného metabolismu a obnovení rovnováhy minerálů v těle.Dr. Wilhelm H. Schüssler první publikoval dvanáct základních minerálních buněčných solí, které jsou  běžně přítomné v buňkách a tkáních organizmů a bez kterých není možný život. Nedostatek některých z těchto solí nebo narušení jejich  jemné rovnováhy má za následek narušení zdraví.
+
+Když je příslušná minerální živina doplňována ve formě, v které může být buňkami využita, můžou tyto znovu  dosáhnout  schopnosti normálně fungovat. Tyto soli se rozpouštějí a vstřebávají v dutině ústní, neobsahují cukr, laktozu ani lepek. Jsou velmi vhodné pro děti.
+
+Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznání, že minerální látky je potřebné podávat v nízké dávce a v tzv. rezonanční formě, které je možné dosáhnout jím popsaným výrobním postupem. Pro lokální účinek na kůži je výhodné používat kosmetické přípravky s obsahem minerálních solí.
     </p>
     
     <h4 style="margin-top: 2rem;">Využití:</h4>
@@ -95,7 +98,8 @@ permalink: /metody/
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <h3>Harmonizace emocí</h3>
-    <p>
+    <p>Zdraví závisí na tom, zda jsme v harmonii s vlastní duší.“
+                (Dr. Edward Bach)
         Bachovy esence jsou přírodní přípravky z květů divokých rostlin a stromů, 
         které pracují s emocionálním a duševním stavem člověka.
     </p>
@@ -118,7 +122,7 @@ permalink: /metody/
     <h3>Evropské a čínské léčivé byliny (Yao)</h3>
     <p>
         Využívám jak tradiční evropské byliny, tak čínské léčivé rostliny (yao) 
-        používané v tradiční čínské medicíně po tisíce let.
+        používané ve východní medicíně po tisíce let.
     </p>
     
     <h3 style="margin-top: 2rem;">Minerály a vitamíny</h3>
@@ -129,8 +133,7 @@ permalink: /metody/
     
     <h3 style="margin-top: 2rem;">Adaptogeny</h3>
     <p>
-        Adaptogeny jsou přírodní látky, které pomáhají organismu adaptovat se na stres 
-        a obnovit rovnováhu. Mezi nejznámější patří ženšen, rhodiola, ashwagandha, 
+        Adaptogeny jsou přírodní látky (rostliny a houby), které pomáhají zvyšovat odolnost organismu vůči stresu, podporují imunitní systém, zlepšují činnost nervově, trávicí a kardiovaskulární soustava, vyrovnávají hormonální hladiny.Pozitivně ovlivňují kognitivní funkce mozku, zpomalují stárnutí a přispívají k obnově rovnováhy v těle. Čili vracejí organismusmus na výše zmíněnou "cestu středu". Mezi nejznámější patří ženšen, rhodiola, ashwagandha, 
         cordyceps a další.
     </p>
     
