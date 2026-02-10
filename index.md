@@ -51,7 +51,19 @@ layout: default
                 <p>Léčení pomocí vitálních hub a bylinných receptur tradiční činské medicíny, které podporují imunitní systém a celkovou vitalitu organismu v chronické i akutní nemoci</p>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
-            
+            ### HRV - Variabilita srdeční frekvence
+
+<div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
+    <p>
+        Měření variability srdeční frekvence odhaluje:
+    </p>
+    <ul class="service-list">
+        <li>Stav autonomního nervového systému</li>
+        <li>Úroveň stresu a adaptační schopnosti</li>
+        <li>Riziko kardiovaskulárních onemocnění</li>
+        <li>Celkovou vitalitu organismu</li>
+        <li>Efektivitu regenerace</li>
+    </ul>
             <div class="card">
                 <div class="card-icon">🌿</div>
                 <h3>Přírodní podpora </h3>

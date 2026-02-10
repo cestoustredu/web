@@ -53,7 +53,6 @@ FQ Qmtrin® Quantum Harmony nemá za cíl pouze hubit patogeny, to by bylo málo
 
 FQ Qmtrin® eliminuje disharmonie způsobené přetížením např.toxiny a patogeny, přetížením psychickým i fyzickým. Likviduje patogeny, detoxikuje, slaďuje, řeší psychosomatiku.Vede k aktivaci a k využití regeneračních procesů, odolnosti, ale i ke schopnosti adekvátně reagovat na vnější podněty a situace včetně náročných a krizových.
 
-    
 ### Kvantový analyzátor magnetické rezonance - Kondiční orgánový scaner  QUANTUM YK4
  
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
