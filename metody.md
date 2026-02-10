@@ -147,7 +147,7 @@ Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznán
         <li>Zlepšení kvality spánku</li>
     </ul>
 </div>
-### HRV - Analýza zdraví přístrojem Heart Vision
+### HRV - měření variability srdeční frekvence
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <p>
@@ -160,14 +160,7 @@ Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznán
      Měří mnoho důležitých parametrů a indexů lidského organismu
      Nejlepší metoda pro detekci akutního a chronického stresu
      Umožňuje odhalit nemoc dříve, než se objeví první příznaky
-        Měření variability srdeční frekvence odhaluje:
-    </p>
-    <ul class="service-list">
-        <li>Stav autonomního nervového systému</li>
-        <li>Úroveň stresu a adaptační schopnosti</li>
-        <li>Riziko kardiovaskulárních onemocnění</li>
-        <li>Celkovou vitalitu organismu</li>
-        <li>Efektivitu regenerace</li>
+        
     </ul>
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0;">
     <h3>Individuální přístup</h3>

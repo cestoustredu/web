@@ -54,15 +54,23 @@ layout: default
            
             <div class="card">
                 <div class="card-icon">🌿</div>
-                <h3>Přírodní podpora </h3>
-                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a využití samoléčebnych schopností našeho těla.</p>
+                <h3>HRV - Analýza zdraví přístrojem Heart Vision </h3>
+                <p>.</p>Měření variability srdeční frekvence odhaluje:
+    </p>
+    <ul class="service-list">
+        <li>Stav autonomního nervového systému</li>
+        <li>Úroveň stresu a adaptační schopnosti</li>
+        <li>Riziko kardiovaskulárních onemocnění</li>
+        <li>Celkovou vitalitu organismu</li>
+        <li>Efektivitu regenerace</li>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
             
             <div class="card">
                 <div class="card-icon">🌸</div>
-                <h3>Další používané doplňky stravy</h3>
-                <p>Joalis - produkty informační medicíny, Schüslerovy tkáňové soli Biomineral.sk, Bachovy květové esence, Energy či Duhové elixíry Martina Kolára, vybrané produkty ze Srílanky, přírodní masti. </p>
+                <h3>Přírodní podpora</h3>
+                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a využití samoléčebnych schopností našeho těla.
+                Joalis - produkty informační medicíny, Schüslerovy tkáňové soli Biomineral.sk, Bachovy květové esence, Energy či Duhové elixíry Martina Kolára, vybrané produkty ze Srílanky, přírodní masti. </p>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>
         </div>
