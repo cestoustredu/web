@@ -15,11 +15,15 @@ Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji
     <div class="card">
     
     Čas s klientem je hodně individuální,dle potíží a výběru služby. Mycoterapie (či výber jiných produktů pro zdraví) vyžaduje rozhovor 30 - 60 minut.
-     První komplexní konzultace (setkání) většinou trvá 2 - 2,5 hodiny. 
-     Prvním rozhovorem zjistím, co vás trápí a poté
-    provádím screeningovou energeticko-informační analýzu (NLS) a harmonizaci na přístroji OBERON, kde zjišťuji mimo jiné komplexní energetické zatížení organismu ( plísně, bakterie, paraziti atd.) emoční stres, stav jednotlivých energetických drah (pentagram pěti prvků), energetické blokády atd. 
-Dále zanalyzuji  analýzu variability srdeční frekvence (HRV) na přístroji HEART VISION. Analýza je mimo jiné oknem do regulace autonomního nervového systému a informuje nás především o funkci jeho dvou hlavních větví sympatiku a parasympatiku jejich dynamické rovnováze a vzájemném působení stresové složky sympatiku a aktivity klidového módu v podobě parasympatiku. Tím zjišťuje celkový index napětí těla (stres index), psycho-emocionální stav, informuje nás o spotřebě energie organismu a díky zpětné vazbě i o využití samoregulace organismu. Variabilita srdečního rytmu nám jednoduše prozradí aktuální fyzický i psychický stav klienta dle reaktivity autonomního nervového systému.Součástí je taktéž i poradenství k zjištěným výsledkům, návrh adekvátních terapií, potravinových doplňků i cvičení k individuálnímu zdravotnímu stavu klienta.
-    K harmonizaci a detoxikaci těla používám frekvenční terapii na Plazmovém Generátoru FQ QMTRIN.
+Komplexní konzultace (setkání) většinou trvá 2 - 2,5 hodiny.
+Prvním rozhovorem zjistím, co vás trápí a poté
+provádím screeningovou energeticko-informační analýzu (NLS) a harmonizaci na přístroji OBERON, kde zjišťuji mimo jiné komplexní energetické zatížení organismu ( plísně, bakterie, paraziti atd.) emoční stres, stav jednotlivých energetických drah (pentagram pěti prvků), energetické blokády atd. 
+Dále se zaměřím na zjištění funkční rovnováhy orgánů, metabolismu, výzivy, stav vitamínů, minerálů, pohybového aparátu aj.parametrů pomocí přístroje Quantum YK4. 
+A také, v případě potřeby, zanalyzuji variabilitu srdeční frekvence (HRV) na přístroji HEART VISION. Analýza je mimo jiné oknem do regulace autonomního nervového systému a informuje nás především o funkci jeho dvou hlavních větví sympatiku a parasympatiku, jejich dynamické rovnováze a vzájemném působení stresové složky sympatiku a aktivity klidového módu v podobě parasympatiku. Tím zjišťuje celkový index napětí těla (stres index), psycho-emocionální stav, informuje nás o spotřebě energie organismu a díky zpětné vazbě i o využití samoregulace organismu. Variabilita srdečního rytmu nám jednoduše prozradí aktuální fyzický i psychický stav klienta dle reaktivity autonomního nervového systému.
+
+Součástí je taktéž i poradenství k zjištěným výsledkům, návrh adekvátních terapií, potravinových doplňků i cvičení k individuálnímu zdravotnímu stavu klienta.
+
+ K harmonizaci a detoxikaci těla používám frekvenční terapii na Plazmovém Generátoru FQ QMTRIN.
 
         
 </div>
