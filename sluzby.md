@@ -7,37 +7,24 @@ permalink: /sluzby/
 
 ## Individuální konzultace
 
-Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu a hledám a navrhuji cesty k jeho zlepšení. Při konzultaci kromě biorezonance využívám znalostí principů Tradiční čínské medicíny,vitálních hub a bylinných směsí tčm Mycomedika, léčivých bylin, přípravků informační medicíny Joalis, Bachových esencí, systému buněčných solí dr.Schüslera. ale i sílu  přírodních mastí a vybraných přírodních produktů ze SríLanky a další.
+Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu a hledám a navrhuji cesty k jeho zlepšení. Při konzultaci kromě biorezonance využívám znalostí principů Tradiční čínské medicíny,vitálních hub a bylinných směsí tčm Mycomedika, léčivých bylin, přípravků informační medicíny Joalis, Bachových esencí, systému buněčných solí dr.Schüslera. ale i sílu  přírodních mastí a další vhodné doplňky k regeneraci, detoxikaci a k nastavení změn zdravého životního stylu.
 
 ### Jak probíhá návštěva
 
 <div class="cards-grid" style="margin: 2rem 0;">
     <div class="card">
-        <h3>1. </h3>
-        <p>Seznámím se s vaší zdravotní historií, aktuálními potížemi a vašimi cíli. 
-        Rozhovor trvá obvykle 30-50 minut.</p>
-    </div>
     
-    <div class="card">
-        <h3>2. Diagnostika</h3>
-        <p>Pomocí biorezonančních metod (Oberon, kvantová analýza, HRV) zjistíme 
-        současný stav vašeho organismu a identifikujeme energetické nerovnováhy.</p>
-    </div>
-    
-    <div class="card">
-        <h3>3. Vyhodnocení</h3>
-        <p>Společně probereme výsledky vyšetření a najdeme příčiny vašich potíží 
-        z celostního pohledu.</p>
-    </div>
-    
-    <div class="card">
-        <h3>4. Doporučení</h3>
-        <p>Navrhneme individuální plán podpory zdraví zahrnující vhodné přírodní 
-        prostředky, úpravu životního stylu a další kroky.</p>
-    </div>
+    Čas s klientem je hodně individuální,dle potíží a výběru služby. Mycoterapie (či výber jiných produktů pro zdraví) vyžaduje rozhovor 30 - 60 minut.
+     První komplexní konzultace (setkání) většinou trvá 2 - 2,5 hodiny. 
+     Prvním rozhovorem zjistím, co vás trápí a poté
+    provádím screeningovou energeticko-informační analýzu (NLS) a harmonizaci na přístroji OBERON, kde zjišťuji mimo jiné komplexní energetické zatížení organismu ( plísně, bakterie, paraziti atd.) emoční stres, stav jednotlivých energetických drah (pentagram pěti prvků), energetické blokády atd. 
+Dále zanalyzuji  analýzu variability srdeční frekvence (HRV) na přístroji HEART VISION. Analýza je mimo jiné oknem do regulace autonomního nervového systému a informuje nás především o funkci jeho dvou hlavních větví sympatiku a parasympatiku jejich dynamické rovnováze a vzájemném působení stresové složky sympatiku a aktivity klidového módu v podobě parasympatiku. Tím zjišťuje celkový index napětí těla (stres index), psycho-emocionální stav, informuje nás o spotřebě energie organismu a díky zpětné vazbě i o využití samoregulace organismu. Variabilita srdečního rytmu nám jednoduše prozradí aktuální fyzický i psychický stav klienta dle reaktivity autonomního nervového systému.Součástí je taktéž i poradenství k zjištěným výsledkům, návrh adekvátních terapií, potravinových doplňků i cvičení k individuálnímu zdravotnímu stavu klienta.
+    K harmonizaci a detoxikaci těla používám frekvenční terapii na Plazmovém Generátoru FQ QMTRIN.
+
+        
 </div>
 
-## Oblasti působení
+## Oblasti poradenství
 
 <ul class="service-list" style="max-width: 800px; margin: 2rem auto;">
     <li>Podpora imunitního systému</li>
