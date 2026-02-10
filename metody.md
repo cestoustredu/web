@@ -147,11 +147,13 @@ Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznán
         <li>Zlepšení kvality spánku</li>
     </ul>
 </div>
-### HRV - Variabilita srdeční frekvence
+### HRV - Analýza zdraví přístrojem Heart Vision
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <p>
-     Rychlý 5 minutový záznam - EKG snímá 300 tepů srdce
+    Jednokanálový elektrokardiogram (EKG) Heart Vision® je softwarová/hardwarová jednotka pro měření srdečních rytmů lidského těla, která monitoruje 300 úderů srdce (cca 5 min. záznam).
+    Heart Vision analyzuje mnoho tělesných systémů a parametrů organismu, například kardiovaskulární systém, nervový systém, hormonální systém, psycho-emocionální stav, stres a napětí, vitální sílu, energetické zásoby organismu, biologický věk, cirkadiánní rytmy, tonus bloudivého nervu, koherenci srdce-mozek, čakry, meridiány a další.
+    
      Analyzuje funkční stav těla a sílu i adaptaci regulačních systémů
      Vyhodnocuje reakci tělesných systémů na různé zátěže nebo terapie
      Analyzuje funkci bloudivého nervu - klíč k relaxaci a odolnosti těla 
