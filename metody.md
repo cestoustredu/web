@@ -7,8 +7,8 @@ permalink: /metody/
 ---
     V rámci celostního přístupu využívám širokou škálu přírodních metod a podpůrných doplňků stravy, které podporují přirozené regenerační a samoléčebné schopnosti organismu.
 
-## Mycoterapie - Vitální houby
-   Yaoterapie  - Čínské byliny a tinktury
+## Mycoterapie, Yaoterapie - Vitální houby a tinktury
+
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <h3>Co je mycoterapie?</h3>
     <p>
@@ -144,7 +144,19 @@ permalink: /metody/
         <li>Zlepšení kvality spánku</li>
     </ul>
 </div>
+### HRV - Variabilita srdeční frekvence
 
+<div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
+    <p>
+        Měření variability srdeční frekvence odhaluje:
+    </p>
+    <ul class="service-list">
+        <li>Stav autonomního nervového systému</li>
+        <li>Úroveň stresu a adaptační schopnosti</li>
+        <li>Riziko kardiovaskulárních onemocnění</li>
+        <li>Celkovou vitalitu organismu</li>
+        <li>Efektivitu regenerace</li>
+    </ul>
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0;">
     <h3>Individuální přístup</h3>
     <p>

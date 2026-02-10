@@ -7,15 +7,15 @@ permalink: /sluzby/
 
 ## Individuální konzultace
 
-Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu a hledám a navrhuji cesty k jeho zlepšení. Při konzultaci kromě biorezonance využívám znalostí principů Tradiční čínské medicíny,vitálních hub a bylinných směsí tčm Mycomedika, léčivých bylin, přípravků informační medicíny Joalis, Bachových esencí, systému buněčných solí dr.Schüslera či bylinných kúr paní Podhorné či bylináře Jukla a další .Využívám i sílu  přírodních mastí a vybraných přírodních produktů ze SríLanky.
+Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu a hledám a navrhuji cesty k jeho zlepšení. Při konzultaci kromě biorezonance využívám znalostí principů Tradiční čínské medicíny,vitálních hub a bylinných směsí tčm Mycomedika, léčivých bylin, přípravků informační medicíny Joalis, Bachových esencí, systému buněčných solí dr.Schüslera. ale i sílu  přírodních mastí a vybraných přírodních produktů ze SríLanky a další.
 
 ### Jak probíhá návštěva
 
 <div class="cards-grid" style="margin: 2rem 0;">
     <div class="card">
-        <h3>1. Úvodní rozhovor</h3>
-        <p>Seznámíme se s vaší zdravotní historií, aktuálními potížemi a vašimi cíli. 
-        Rozhovor trvá obvykle 20-30 minut.</p>
+        <h3>1. </h3>
+        <p>Seznámím se s vaší zdravotní historií, aktuálními potížemi a vašimi cíli. 
+        Rozhovor trvá obvykle 30-50 minut.</p>
     </div>
     
     <div class="card">
