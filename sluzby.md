@@ -14,7 +14,7 @@ Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji
 <div class="cards-grid" style="margin: 2rem 0;">
     <div class="card">
     
- Čas s klientem je hodně individuální,dle potíží a výběru služby. 
+ Čas s klientem je hodně individuální,dle aktuálního stavu těla, potíží a výběru služby viz ceník. 
  
  Mycoterapie (či poradenství o vhodnosti jiných produktů)zahrnuje rozhovor 30 - 60 minut.
 
