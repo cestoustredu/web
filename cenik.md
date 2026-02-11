@@ -61,7 +61,13 @@ permalink: /cenik/
         </div>
         <div class="price">300 Kč bez nákupu produktů zde, v případě nákupu konzultace zdarma</div>
     </div>
-
+ <div class="price-item">
+        <div>
+            <h3>Bachovy esence + lahvička "na míru"</h3>
+            <p>Dle domluvy a vyplnění dotazníku v klidu domova vám namícham lahvičku esencí, kterou si vyzvednete u mě (v případě potřeby se setkáme v mé chaloupce -poradně</p>
+        </div>
+        <div class="price">450 Kč</div>
+        
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0;">
     <h3>Důležité informace</h3>
     <ul class="service-list">
