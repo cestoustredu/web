@@ -11,7 +11,7 @@ permalink: /cenik/
             <h3>Komplexní konzultace</h3>
             <p>Komplexní diagnostika vč.metaterapie + doporučení (120 -180 min)</p>
         </div>
-        <div class="price">1 500 Kč</div>
+        <div class="price">1 600 Kč</div>
     </div>
     
     <div class="price-item">
