@@ -69,7 +69,7 @@ layout: default
             <div class="card">
                 <div class="card-icon">🌸</div>
                 <h3>Přírodní podpora</h3>
-                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a využití samoléčebnych schopností našeho těla.
+                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a nastartování samoléčebnych schopností našeho těla.
                 Joalis - produkty informační medicíny, Schüslerovy tkáňové soli Biomineral.sk, Bachovy květové esence, Energy či Duhové elixíry Martina Kolára, vybrané produkty ze Srílanky, přírodní masti. </p>
                 <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
             </div>

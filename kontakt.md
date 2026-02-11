@@ -43,8 +43,7 @@ permalink: /kontakt/
     <h3 class="text-center">Objednání návštěvy</h3>
     <p class="text-center" style="margin-bottom: 2rem;">
         Pro objednání konzultace mě,prosím, kontaktujte sms, whatsapp  nebo emailem. Případně telefonicky, ozvu se vám, jakmile to bude možné.
-        Společně najdeme vhodný termín a čas.
-    </p>
+        Společně najdeme vhodný termín.   </p>
     
     <div style="text-align: center;">
         <a href="tel:{{ site.phone | replace: ' ', '' }}" class="btn btn-primary">
