@@ -67,7 +67,7 @@ permalink: /cenik/
             <p>Dle domluvy a vyplnění dotazníku v klidu domova vám namícham lahvičku esencí, kterou si vyzvednete u mě (v případě potřeby se setkáme v mé chaloupce -poradně</p>
         </div>
         <div class="price">450 Kč</div>
-        
+
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0;">
     <h3>Důležité informace</h3>
     <ul class="service-list">
@@ -78,7 +78,7 @@ permalink: /cenik/
         <li>Při opakovaných návštěvách možnost balíčků konzultací za zvýhodněnou cenu</li>
     </ul>
 </div>
-
+Děti do 12 let 20% sleva 
 ## Storno podmínky
 
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
