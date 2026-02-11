@@ -8,8 +8,8 @@ permalink: /cenik/
 <div class="pricing-table">
     <div class="price-item">
         <div>
-            <h3>Úvodní konzultace</h3>
-            <p>Rozhovor + diagnostika + doporučení (90-120 min)</p>
+            <h3>Komplexní konzultace</h3>
+            <p>Komplexní diagnostika vč.metaterapie + doporučení (120 -180 min)</p>
         </div>
         <div class="price">1 500 Kč</div>
     </div>
@@ -17,23 +17,24 @@ permalink: /cenik/
     <div class="price-item">
         <div>
             <h3>Kontrolní konzultace</h3>
-            <p>Kontrola stavu + úprava doporučení (60 min)</p>
-        </div>
-        <div class="price">1 000 Kč</div>
-    </div>
-    
-    <div class="price-item">
-        <div>
-            <h3>Biorezonanční vyšetření Oberon</h3>
-            <p>Komplexní diagnostika organismu</p>
+            <p>Kontrola stavu vč.metaterapie + úprava doporučení (60 -90min)</p>
         </div>
         <div class="price">800 Kč</div>
     </div>
     
     <div class="price-item">
         <div>
-            <h3>Kvantová analýza</h3>
-            <p>Rychlá analýza funkčního stavu organismu</p>
+            <h3>Biorezonanční vyšetření Oberon vč.metaterapie </h3>
+            <p>cca 90-120 min.</p>
+        </div>
+        <div class="price">1000 Kč</div>
+    </div>
+    
+    <div class="price-item">
+        <div>
+            <h3>Kondiční organový scaner Quantum YK4</h3>
+            <p>Rychlá analýza funkčního stavu organismu (vitamíny, minerály, výziva, stav metabolismu atd.)+vyhodnocení
+            40-60 min.</p>
         </div>
         <div class="price">500 Kč</div>
     </div>
@@ -41,26 +42,32 @@ permalink: /cenik/
     <div class="price-item">
         <div>
             <h3>HRV měření</h3>
-            <p>Variabilita srdeční frekvence + vyhodnocení</p>
+            <p>Variabilita srdeční frekvence + vyhodnocení 60 min.</p>
         </div>
-        <div class="price">400 Kč</div>
+        <div class="price">600 Kč</div>
     </div>
     
     <div class="price-item">
         <div>
             <h3>Plazma FQ Qmtrin aplikace</h3>
-            <p>Harmonizace a revitalizace (30 min)</p>
+            <p>Harmonizace a likvidace patogenů(cca 60-90 min)</p>
         </div>
-        <div class="price">600 Kč</div>
+        <div class="price">300/ 1hod. Kč</div>
+    </div> 
+<div class="price-item">
+        <div>
+            <h3>Mycoterapie a poradenství dalšich podpárných produktů</h3>
+            <p>30- 60 min.</p>
+        </div>
+        <div class="price">300 Kč bez nákupu produktů zde, v případě nákupu konzultace zdarma</div>
     </div>
-</div>
 
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 3rem 0;">
     <h3>Důležité informace</h3>
     <ul class="service-list">
         <li>Ceny jsou orientační a mohou se lišit podle individuálních potřeb</li>
-        <li>První konzultace doporučuji delší (90-120 min) pro komplexní zhodnocení</li>
-        <li>Následné konzultace jsou kratší (60 min) a zaměřují se na kontrolu a úpravu terapie</li>
+        <li>První konzultace doporučuji komplexní zhodnocení</li>
+        <li>Následné konzultace jsou kratší a zaměřují se na kontrolu a úpravu terapie</li>
         <li>Jednotlivá vyšetření lze kombinovat podle potřeby</li>
         <li>Při opakovaných návštěvách možnost balíčků konzultací za zvýhodněnou cenu</li>
     </ul>
@@ -98,7 +105,7 @@ permalink: /cenik/
     <div style="margin-top: 2rem; padding: 1rem; background: var(--bg-light); border-radius: var(--radius-sm);">
         <p><strong>Jak zrušit návštěvu:</strong></p>
         <p>
-            Zrušení nebo přeobjednání termínu prosím oznamte telefonicky na 
+            Zrušení nebo přeobjednání termínu prosím oznamte telefonicky či sms na 
             <a href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a> 
             nebo emailem na <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
         </p>
