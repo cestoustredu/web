@@ -44,7 +44,7 @@ permalink: /cenik/
             <h3>HRV měření</h3>
             <p>Variabilita srdeční frekvence + vyhodnocení 60 min.</p>
         </div>
-        <div class="price">600 Kč</div>
+        <div class="price">700 Kč</div>
     </div>
     
     <div class="price-item">
