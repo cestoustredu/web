@@ -72,11 +72,12 @@ permalink: /metody/
 <div style="background: white; padding: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-md); margin: 2rem 0;">
     <h3>Biochemie podle Dr. Schüslera</h3>
     <p>
-        Schüsslerovy soli jsou minerální soli používané k podpoře buněčného metabolismu a obnovení rovnováhy minerálů v těle.Dr. Wilhelm H. Schüssler první publikoval dvanáct základních minerálních buněčných solí, které jsou  běžně přítomné v buňkách a tkáních organizmů a bez kterých není možný život. Nedostatek některých z těchto solí nebo narušení jejich  jemné rovnováhy má za následek narušení zdraví.
+    Schüsslerovy soli jsou minerální soli používané k podpoře buněčného metabolismu a obnovení rovnováhy minerálů v těle.
+    Dr. Wilhelm H. Schüssler první publikoval dvanáct základních minerálních buněčných solí, které jsou  běžně přítomné v buňkách a tkáních organizmů a bez kterých není možný život. Nedostatek některých z těchto solí nebo narušení jejich  jemné rovnováhy má za následek narušení zdraví.
 
-Když je příslušná minerální živina doplňována ve formě, v které může být buňkami využita, můžou tyto znovu  dosáhnout  schopnosti normálně fungovat. Tyto soli se rozpouštějí a vstřebávají v dutině ústní, neobsahují cukr, laktozu ani lepek. Jsou velmi vhodné pro děti.
+    Když je příslušná minerální živina doplňována ve formě, v které může být buňkami využita, můžou tyto znovu  dosáhnout  schopnosti normálně fungovat. Tyto soli se rozpouštějí a vstřebávají v dutině ústní, neobsahují cukr, laktozu ani lepek. Jsou velmi vhodné pro děti.
 
-Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznání, že minerální látky je potřebné podávat v nízké dávce a v tzv. rezonanční formě, které je možné dosáhnout jím popsaným výrobním postupem. Pro lokální účinek na kůži je výhodné používat kosmetické přípravky s obsahem minerálních solí.
+    Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznání, že minerální látky je potřebné podávat v nízké dávce a v tzv. rezonanční formě, které je možné dosáhnout jím popsaným výrobním postupem. Pro lokální účinek na kůži je výhodné používat kosmetické přípravky s obsahem minerálních solí.
     </p>
     
     <h4 style="margin-top: 2rem;">Využití:</h4>
@@ -100,8 +101,7 @@ Přínosem celoživotního díla Dr. Schüsslera bylo hlavně empirické poznán
     <h3>Harmonizace emocí</h3>
     <p>Zdraví závisí na tom, zda jsme v harmonii s vlastní duší.“
                 (Dr. Edward Bach)
-        Bachovy esence jsou přírodní přípravky z květů divokých rostlin a stromů, 
-        které pracují s emocionálním a duševním stavem člověka.
+        Bachovy esence jsou přírodní přípravky z květů divokých rostlin a stromů, které pracují s emocionálním a duševním stavem člověka. Působí na různé emocionální stavy jako je strach,úzkost, deprese, nejistota a pocit osamělosti.Esence jsou navrženy tak, aby obnovily harmonii mezi myslí a tělem.
     </p>
     
     <h4 style="margin-top: 2rem;">Pomáhají při:</h4>

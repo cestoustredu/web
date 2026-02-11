@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Certifikace
+title: O mně
 subtitle: Moje vzdělání a kvalifikace
 permalink: /certifikace/
 ---
