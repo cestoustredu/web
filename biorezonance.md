@@ -4,15 +4,18 @@ title: Biorezonance
 subtitle: Moderní diagnostické a harmonizační metody
 permalink: /biorezonance/
 ---
+Jak píše MUDr. Miroslav Pekárek ve své knize Tajemství života a naděje o biorezonanční diagnostice a terapii: "Zánět zjistíme patologickými frekvencemi a vysíláním harmonizujících frekvencí ty patologické eliminujeme a tím léčíme." To je základ biorezonance…
 
- Biorezonance je zcela bezpečná, neinvazivní metoda, která využívá elektromagnetické frekvence pro diagnostiku a harmonizaci organismu. Pomáhá odhalit skryté příčiny zdravotních potíží a podporuje přirozené samoregulační procesy těla.Je vhodná pro všechny věkové kategorie. 
-
+ Biorezonance je zcela bezpečná, neinvazivní metoda, která využívá elektromagnetické frekvence pro diagnostiku a harmonizaci organismu. Pomáhá odhalit skryté příčiny zdravotních potíží a podporuje přirozené samoregulační procesy těla.Je vhodná pro všechny věkové kategorie.
+ A to nejen u lidí, ale i u zvířat. U nich je účinek často velmi rychlý.
+Zvířata reagují na frekvenční působení přirozeně a bez odporu. Nemají bloky, přesvědčení ani pochybnosti. Jednoduše přijímají to, co jim pomáhá. Mnozí majitelé si všimnou, že po metaterapii je jejich zvíře klidnější, vitálnější, má lepší chuť k jídlu
 ## Jak biorezonance funguje
 
 <div style="background: var(--bg-light); padding: 2rem; border-radius: var(--radius-md); margin: 2rem 0;">
    <p>
 Každá buňka, tkáň a orgán v našem těle vibruje na specifické frekvenci. Biorezonance tyto frekvence snímá a analyzuje. Pokud jsou frekvence narušené (například nemocí, toxiny nebo stresem), biorezonanční přístroj to dokáže zjistit a následně pomoci organismu vrátit se do harmonického stavu vysíláním vhodných korektivních frekvencí.
-    
+Měření na Oberonu je nástroj pro pochopení toho, co se děje uvnitř těla člověka či zvířete.
+ 
 
 ### Oberon Quantum - Kvantová diagnostika a terapie
 
@@ -33,10 +36,16 @@ Funguje na základě kvantové fyziky ve spojení s energetickýcm napojením te
  Díky tomu, že má každý patogen(plísně, viry, bakterie, paraziti či nemoc) svoji vlastní frekvenci, dokáže Oberon( či plazma nebo kvantový analyzátor) popsat aktuální stav organismu, dokonce umí udělat predikci možných budoucích onemocnění(a to až 5 let předem). Takže člověk má šanci změnit svůj životní styl. Zjištěné  frekvence dále použije k metaterapii, což neznamená,že udělá práci za nás, ale podpoří samoléčebný potenciál, nabídne tělu potřebné frekvence a tak jej vede k detoxikaci, k regeneraci a k vymazání záznamu o nemoci. Nekdy stačí k vymizení problému jedna terapie jindy více. Při metaterapii může klient sledovat reakce sveho organismu na obrazovce. Tělo jedince po terapii s nahranými frekvencemi 2-4 týdny pracuje.Navíc může terapeut v rámci metaterapie přidat mnoho bodů, do nichž jsou frekvence posílány a tím terapii zesílí. Můžu také takzvaně zafixovat působení do konkrétního bodu,(napr.cysta či enrgeticky oslabený orgán).Pracovat je možné jak na chronických,tak na akutních potížích, Oberon lze využít terapeuticky i preventivně. 
 
 Přístroj Oberon Systém Quantum patří v celostní a přírodní medicíně k nejmodernějším přístrojům. Vyhodnocování energetického stavu lidského organismu je prováděno porovnáním dat diagramu (grafu) s etalony (vzorky) uložené v databázi softwaru. Takto je možno zachytit stavy a změny vlnových charakteristik různých tělních tkání a orgánů. Každý živý orgán funguje na své vlastní frekvenci (oscilaci). Podle frekvenčních vlastností, analyzuje počítačová diagnostika funkční aktivitu orgánů, tkání a systémů člověka a porovnává je s fyziologickými hodnotami, které jsou uloženy v softwaru Oberonu. Přístroj bezkontaktně monitoruje životní procesy, poukazuje na možné narušení homeostázy, stanoví konkrétní energetické zátěže a zjišťuje narušení vzájemného propojení v systémech organismu.
+Metaterapie
+Po vyhodnocení měření se rovnou provede energetická harmonizace - metaterapie. Metaterapie „neléčí“. Pomáhá tělu rozpomenout se na jeho vlastní moudrost. Každý organismus má v sobě přirozenou schopnost regenerace, jen ji někdy potřebuje jemně připomenout.Působí tam, kde klasické metody končí. 
+Metaterapie:
+podporuje regenerační schopnosti těla
+zlepšuje průtok energie a detoxikaci
+pomáhá uvolnit vnitřní napětí a stres
+a navrací rovnováhu orgánům, imunitnímu systému i psychice 
+ S funkcí Metaterapie můžeme provádět tzv. biorezonanční harmonizaci, kdy se fyziologickým vlněním jemně podporuje tělo jako celek a dochází k aktivaci sebeuzdravovacích procesů a k znovu-naladění celkové harmonie těla i duše.
 
-Přístroj je vhodný ke kontrole účinků jakékoliv léčby, potravinových doplňků, bylin, vitamínů, prakticky všech druhů terapií jaké existují. Součástí přístroje je i obsáhlá databáze, vycházející především z čínské a indické medicíny, homeopatie, fytoterapie atd. Přístroj dále dokáže vytvořit informační preparáty, přímo na daný problém (disharmonii) a navrhne na míru i vhodné doplňky pro nastavení změn zdravého životního stylu u klienta. S funkcí Metaterapie můžeme provádět tzv. biorezonanční harmonizaci, kdy se fyziologickým vlněním jemně podporuje tělo jako celek a dochází k aktivaci sebeuzdravovacích procesů a k znovu-naladění celkové harmonie těla i duše.
 
-Jak píše MUDr. Miroslav Pekárek ve své knize Tajemství života a naděje o biorezonanční diagnostice a terapii: "Zánět zjistíme patologickými frekvencemi a vysíláním harmonizujících frekvencí ty patologické eliminujeme a tím léčíme." To je základ biorezonance…
 
 
 
