@@ -116,7 +116,7 @@ permalink: /cenik/
     <h3 style="color: white;">Dárkové poukazy</h3>
     <p style="margin: 1rem 0;">
         Hledáte originální dárek pro své blízké? Nabízím dárkové poukazy na konzultace 
-        a vyšetření v libovolné hodnotě.
+        i nákup produktů v libovolné hodnotě.
     </p>
     <a href="{{ '/kontakt/' | relative_url }}" class="btn" style="background: white; color: var(--primary-color);">
         Informace o dárkových poukazech
