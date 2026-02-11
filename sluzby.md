@@ -19,6 +19,8 @@ Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji
  Mycoterapie (či poradenství o vhodnosti jiných produktů)zahrnuje rozhovor 30 - 60 minut.
 
 Komplexní konzultace většinou trvá 2 - 2,5 hodiny.
+Doporučení před biorezonanční diagnostikou: 
+Prosím, nepít hodinu předem stimulační nápoje jako je káva, alkohol, energeťaky a jíst těžké jídlo.
 Prvním rozhovorem zjistím, co vás trápí a poté
 provádím screeningovou energeticko-informační analýzu (NLS) a harmonizaci na přístroji OBERON, kde zjišťuji mimo jiné komplexní energetické zatížení organismu ( plísně, bakterie, paraziti atd.) emoční stres, stav jednotlivých energetických drah (pentagram pěti prvků), energetické blokády atd. 
 Dále se podíváme na zjištění funkční (ne)rovnováhy orgánů, metabolismu, stav vitamínů, minerálů, výživy a dalších mnoha parametrů pomocí přístroje Quantum YK4. Zjištěné výsledky nám poslouží jako orientační mapa, preventivní scaner, díky kterému můžeme zachytit nerovnováhu včas.
