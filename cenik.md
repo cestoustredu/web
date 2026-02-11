@@ -56,7 +56,7 @@ permalink: /cenik/
     </div> 
 <div class="price-item">
         <div>
-            <h3>Mycoterapie a poradenství dalšich podpárných produktů</h3>
+            <h3>Mycoterapie a poradenství dalšich podpůrných produktů</h3>
             <p>30- 60 min.</p>
         </div>
         <div class="price">300 Kč bez nákupu produktů zde, v případě nákupu konzultace zdarma</div>
