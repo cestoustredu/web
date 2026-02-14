@@ -20,8 +20,9 @@ Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji
 
 Komplexní konzultace většinou trvá 2 - 2,5 hodiny.
 
-Doporučení před biorezonanční diagnostikou: 
-Prosím, nepijte hodinu předem stimulační nápoje jako je káva,černý či zelený čaj, alkohol, energetické drinky,colu, a nejezte těžké jídlo. pokud to není nutné, neberte léky na bolest. Denní léky od určitě nevynechávejte.
+Doporučení před biorezonanční analýzou: 
+Prosím, nepijte hodinu předem stimulační nápoje jako je káva,černý či zelený čaj, alkohol, energetické drinky,colu, a nejezte těžké jídlo. pokud to není nutné, neberte léky na bolest. Denní léky od lékaře určitě nevynechávejte.
+
 Prvním rozhovorem zjistím, co vás trápí a poté
 provádím screeningovou energeticko-informační analýzu (NLS) a harmonizaci na přístroji OBERON, kde zjišťuji mimo jiné komplexní energetické zatížení organismu ( plísně, bakterie, paraziti atd.) emoční stres, stav jednotlivých energetických drah (pentagram pěti prvků), energetické blokády atd. 
 Dále se podíváme na zjištění funkční (ne)rovnováhy orgánů, metabolismu, stav vitamínů, minerálů, výživy a dalších mnoha parametrů pomocí přístroje Quantum YK4. Zjištěné výsledky nám poslouží jako orientační mapa, preventivní scaner, díky kterému můžeme zachytit nerovnováhu včas.
