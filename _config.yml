@@ -1,5 +1,5 @@
-# Konfigurace webu Cestou Středu
-title: "Cestou Středu"
+# Konfigurace webu Cestou středu
+title: "Cestou středu"
 description: "Celostní poradenství pro podporu zdraví, rovnováhy a vitality"
 url: "https://www.cestoustredu.cz"
 baseurl: ""
@@ -7,9 +7,9 @@ baseurl: ""
 # Kontaktní informace
 email: "info@cestoustredu.cz"
 phone: "+420 739 339 975"
-address: Cestou Středu
-         Vančurova 97/3
-city:    Slaný
+address_name: Cestou středu
+address: Vančurova 97/3
+city:   Slaný
 
 # Build settings
 markdown: kramdown

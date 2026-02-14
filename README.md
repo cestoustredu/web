@@ -1,4 +1,4 @@
-# Cestou Středu
+# Cestou středu
 
 Webové stránky pro celostní poradenství s využitím tradiční čínské medicíny, biorezonance a přírodních prostředků.
 
@@ -158,7 +158,7 @@ Web je plně responzivní s breakpointy:
 
 ## 📄 Licence
 
-Tento web je vytvořen na zakázku pro Cestou Středu.
+Tento web je vytvořen na zakázku pro Cestou středu.
 
 ## 🆘 Podpora
 
@@ -170,4 +170,4 @@ Pro otázky a pomoc:
 
 ---
 
-Vytvořeno s ❤️ pro Cestou Středu
+Vytvořeno s ❤️ pro Cestou středu

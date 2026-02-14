@@ -22,20 +22,20 @@
     <div class="header-main">
         <div class="container">
             <div class="header-content">
-                <a href="{{ '/' | relative_url }}" class="site-logo">
+                <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="Cestou středu">
                     <svg class="logo-icon" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="50" cy="50" r="45" fill="none" stroke="url(#logoGradient)" stroke-width="3"/>
                         <path d="M50,30 Q60,40 50,50 Q40,40 50,30 M50,50 Q60,60 50,70 Q40,60 50,50 M30,50 Q40,40 50,50 Q40,60 30,50 M70,50 Q60,40 50,50 Q60,60 70,50" fill="url(#logoGradient)" opacity="0.8"/>
                         <circle cx="50" cy="50" r="8" fill="url(#logoGradient)"/>
                         <defs>
                             <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                                <stop offset="0%" style="stop-color:#9d7bb0;stop-opacity:1" />
-                                <stop offset="50%" style="stop-color:#7c5295;stop-opacity:1" />
-                                <stop offset="100%" style="stop-color:#6b8e6f;stop-opacity:1" />
+                                <stop offset="0%" style="stop-color:#6ba67a;stop-opacity:1" />
+                                <stop offset="50%" style="stop-color:#4a7c59;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#2d5f4f;stop-opacity:1" />
                             </linearGradient>
                         </defs>
                     </svg>
-                    <h1>{{ site.title }}</h1>
+                    <span class="logo-text">{{ site.title }}</span>
                 </a>
                 
                 <nav class="site-nav">
@@ -49,6 +49,7 @@
                         <li><a href="{{ '/certifikace/' | relative_url }}" {% if page.url contains '/certifikace' %}class="active"{% endif %}>Certifikace</a></li>
                         <li><a href="{{ '/sluzby/' | relative_url }}" {% if page.url contains '/sluzby' %}class="active"{% endif %}>Co nabízím</a></li>
                         <li><a href="{{ '/biorezonance/' | relative_url }}" {% if page.url contains '/biorezonance' %}class="active"{% endif %}>Biorezonance</a></li>
+                        <li><a href="{{ '/hrv/' | relative_url }}" {% if page.url contains '/hrv' %}class="active"{% endif %}>HRV</a></li>
                         <li><a href="{{ '/metody/' | relative_url }}" {% if page.url contains '/metody' %}class="active"{% endif %}>Metody</a></li>
                         <li><a href="{{ '/cenik/' | relative_url }}" {% if page.url contains '/cenik' %}class="active"{% endif %}>Ceník</a></li>
                         <li><a href="{{ '/kontakt/' | relative_url }}" {% if page.url contains '/kontakt' %}class="active"{% endif %}>Kontakt</a></li>

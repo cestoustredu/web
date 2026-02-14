@@ -2,86 +2,84 @@
 layout: default
 ---
 
-<section class="hero">
-        <h1> Návrat k rovnováze těla i duše </h1>
-    <div class="container">
-        <p>Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky</p>
-    </div>
-    
+<section class="hero" markdown="1">
+# Návrat k rovnováze těla i duše
+
+<div class="container" markdown="1">
+Věřím, že tělo má přirozenou schopnost regenerace, pokud mu vytvoříme vhodné podmínky
+</div>
 </section>
 
-<section class="container" style="padding: 3rem 0;">
-    <div style="max-width: 900px; margin: 0 auto;">
-        <h2 class="text-center mb-3">Vítejte</h2>
-        
-        <div style="font-size: 1.1rem; line-height: 1.8;">
-            <p>
-                Nabízím <strong>celostní poradenství</strong> pro podporu zdraví, rovnováhy a vitality. 
-                Vycházím z principů <strong>tradiční čínské medicíny</strong>, <strong>biorezonance</strong> 
-                a přírodních produktů jako jsou vitální houby, evropské a čínské léčivé byliny (yao), informační přípravky Joalis, Schüslerovy tkáňové soli, Bachovy květové esence a další.
-            </p>
-            
-            <p class="text-center" style="font-size: 1.25rem; color: var(--primary-color); margin: 2rem 0; font-style: italic;">
-                Pomohu vám hledat a nacházet cestu ke středu – k harmonii těla, mysli a duše.
-            </p>
-            
-            <div style="text-align: center; margin-top: 3rem;">
-                <a href="{{ '/sluzby/' | relative_url }}" class="btn btn-primary">Co nabízím</a>
-                <a href="{{ '/kontakt/' | relative_url }}" class="btn btn-outline">Objednat se</a>
-            </div>
-        </div>
-    </div>
+<section class="container" style="padding: 3rem 0;" markdown="1">
+<div style="max-width: 900px; margin: 0 auto;" markdown="1">
+## Vítejte
+
+Nabízím **celostní poradenství** pro podporu zdraví, rovnováhy a vitality. Vycházím z principů **tradiční čínské medicíny**, **biorezonance** a přírodních produktů jako jsou vitální houby, evropské a čínské léčivé byliny (yao), informační přípravky Joalis, Schüslerovy tkáňové soli, Bachovy květové esence a další.
+
+{: .text-center}
+_Pomohu vám hledat a nacházet cestu ke středu - k harmonii těla, mysli a duše._
+
+{: .text-center}
+[Co nabízím]({{ '/sluzby/' | relative_url }}){: .btn .btn-primary }
+[Objednat se]({{ '/kontakt/' | relative_url }}){: .btn .btn-outline }
+</div>
 </section>
 
-<section class="services-section">
-    <div class="container">
-        <h2 class="section-title">Používané metody</h2>
-        
-        <div class="cards-grid">
-            <div class="card">
-                <div class="card-icon">✨</div>
-                <h3>Biorezonance</h3>
-                <p>Diagnostika a harmonizace pomocí moderních biorezonančních přístrojů jako je Oberon Quantum, frekvenční generátor FQ Qmtrin (plazma),kvantový analyzátor magnetické rezonance Quantum YK4 a Heart Vision .</p>
-                <a href="{{ '/biorezonance/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
-            </div>
-            
-            <div class="card">
-                <div class="card-icon">🍄</div>
-                <h3>Mycoterapie a Yaoterapie</h3>
-                <p>Léčení pomocí vitálních hub a bylinných receptur tradiční činské medicíny, které podporují imunitní systém a celkovou vitalitu organismu v chronické i akutní nemoci</p>
-                <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
-            </div>
-           
-            <div class="card">
-                <div class="card-icon">🌿</div>
-                <h3>HRV - Analýza zdraví přístrojem Heart Vision </h3>
-                <p>.</p>Měření variability srdeční frekvence odhaluje:
-    </p>
-    <ul class="service-list">
-        <li>Stav autonomního nervového systému</li>
-        <li>Úroveň stresu a adaptační schopnosti</li>
-        <li>Riziko kardiovaskulárních onemocnění</li>
-        <li>Celkovou vitalitu organismu</li>
-        <li>Efektivitu regenerace</li>
-                <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
-            </div>
-            
-            <div class="card">
-                <div class="card-icon">🌸</div>
-                <h3>Přírodní podpora</h3>
-                <p>Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a nastartování samoléčebnych schopností našeho těla.
-                Joalis - produkty informační medicíny, Schüslerovy tkáňové soli Biomineral.sk, Bachovy květové esence, Energy či Duhové elixíry Martina Kolára, vybrané produkty ze Srílanky, přírodní masti. </p>
-                <a href="{{ '/metody/' | relative_url }}" style="font-weight: 500;">Více informací →</a>
-            </div>
-        </div>
-    </div>
+<section class="services-section" markdown="1">
+<div class="container" markdown="1">
+## Používané metody
+
+<div class="cards-grid" markdown="1">
+<div class="card" markdown="1">
+<div class="card-icon">✨</div>
+### Biorezonance
+
+Diagnostika a harmonizace pomocí moderních biorezonančních přístrojů jako je Oberon Quantum, frekvenční generátor FQ Qmtrin (plazma), kvantový analyzátor magnetické rezonance Quantum YK4 a Heart Vision.
+
+[Více informací →]({{ '/biorezonance/' | relative_url }})
+</div>
+
+<div class="card" markdown="1">
+<div class="card-icon">🍄</div>
+### Mycoterapie a Yaoterapie
+
+Léčení pomocí vitálních hub a bylinných receptur tradiční čínské medicíny, které podporují imunitní systém a celkovou vitalitu organismu v chronické i akutní nemoci.
+
+[Více informací →]({{ '/hrv/' | relative_url }})
+</div>
+
+<div class="card" markdown="1">
+<div class="card-icon">🌿</div>
+### HRV - Analýza zdraví přístrojem Heart Vision
+
+Měření variability srdeční frekvence odhaluje:
+
+- Stav autonomního nervového systému
+- Úroveň stresu a adaptační schopnosti
+- Riziko kardiovaskulárních onemocnění
+- Celkovou vitalitu organismu
+- Efektivitu regenerace
+
+[Více informací →]({{ '/metody/' | relative_url }})
+</div>
+
+<div class="card" markdown="1">
+<div class="card-icon">🌸</div>
+### Přírodní podpora
+
+Využití léčivých rostlin, minerálů, vitaminů a adaptogenů pro podporu zdraví přirozenou cestou a nastartování samoléčebných schopností našeho těla. Joalis - produkty informační medicíny, Schüslerovy tkáňové soli Biomineral.sk, Bachovy květové esence, Energy či Duhové elixíry Martina Kolára, vybrané produkty ze Srílanky, přírodní masti.
+
+[Více informací →]({{ '/metody/' | relative_url }})
+</div>
+</div>
+</div>
 </section>
 
-<section class="container" style="padding: 3rem 0; text-align: center;">
-    <h2>Začněte svou cestu ke zdraví</h2>
-    <p style="font-size: 1.1rem; max-width: 700px; margin: 1rem auto 2rem;">
-        Každý člověk je jedinečný a zaslouží si individuální přístup. Kontaktujte mě 
-        a společně najdeme cestu k vašemu zdraví a pohodě.
-    </p>
-    <a href="{{ '/kontakt/' | relative_url }}" class="btn btn-primary">Objednat konzultaci</a>
+<section class="container" style="padding: 3rem 0;" markdown="1">
+## Začněte svou cestu ke zdraví
+
+Každý člověk je jedinečný a zaslouží si individuální přístup. Kontaktujte mě a společně najdeme cestu k vašemu zdraví a pohodě.
+
+{: .text-center}
+[Objednat konzultaci]({{ '/kontakt/' | relative_url }}){: .btn .btn-primary }
 </section>

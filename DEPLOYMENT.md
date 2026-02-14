@@ -1,4 +1,4 @@
-# Cestou Středu - Deployment na GitHub Pages
+# Cestou středu - Deployment na GitHub Pages
 
 ## Příprava GitHub repozitáře
 
@@ -24,7 +24,7 @@ git init
 git add .
 
 # První commit
-git commit -m "Initial commit - Cestou Středu website"
+git commit -m "Initial commit - Cestou středu website"
 
 # Propojení s GitHub (nahraďte USERNAME a REPOSITORY)
 git remote add origin https://github.com/USERNAME/REPOSITORY.git
