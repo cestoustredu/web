@@ -59,12 +59,12 @@ permalink: /cenik/
             <h3>Mycoterapie a poradenství k dalším produktům</h3>
             <p>40- 60 min.</p>
         </div>
-        <div class="price">500 Kč bez nákupu produktů zdeu mě, v případě nákupu konzultace 150 Kč ( Krátká konzultace k nákupu zdarma)</div>
+        <div class="price">500 Kč bez nákupu produktů u mě, v případě nákupu konzultace zdarma Kč </div>
     </div>
  <div class="price-item">
         <div>
             <h3>Bachovy esence + lahvička "na míru"</h3>
-            <p>Dle domluvy a vyplnění dotazníku v klidu domova vám namícham lahvičku esencí, kterou si vyzvednete u mě (v případě potřeby se setkáme v mé chaloupce -poradně</p>
+            <p>Dle domluvy a vyplnění dotazníku v klidu domova vám namícham lahvičku esencí, kterou si vyzvednete u mě (v případě potřeby se setkáme v mé chaloupce - poradně</p>
         </div>
         <div class="price">500 Kč</div>
 
