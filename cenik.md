@@ -8,9 +8,10 @@ permalink: /cenik/
 - **Komplexní konzultace** - Komplexní diagnostika vč. metaterapie + doporučení (120 - 180 min) - **1 600 Kč**
 - **Kontrolní konzultace** - Kontrola stavu vč. metaterapie + úprava doporučení (60 - 90 min) - **800 Kč**
 - **Biorezonanční vyšetření Oberon vč. metaterapie** - cca 90 - 120 min - **1 000 Kč**
+    (na dálku včetně osobní či telefonické konzultace 800 Kč)
 - **Kondiční organový scaner Quantum YK4** - Rychlá analýza funkčního stavu organismu (vitamíny, minerály, výživa, stav metabolismu atd.) + vyhodnocení 40 - 60 min - **500 Kč**
 - **HRV měření** - Variabilita srdeční frekvence + vyhodnocení 60 min - **700 Kč**
-- **Plazma FQ Qmtrin aplikace** - Harmonizace a likvidace patogenů (cca 60 - 90 min) - **300 Kč / 1 hod.**
+- **Plazma FQ Qmtrin aplikace** - Harmonizace a likvidace patogenů (cca 60 - 90 min) - **300 Kč / 1 hod.**  (na dálku přes DNA informaci 200 Kč/ hod., dle domluvy s vámi na konkrětním programu)
 - **Mycoterapie a poradenství k dalším produktům** - 40 - 60 min - **500 Kč bez nákupu produktů u mě, v případě nákupu konzultace zdarma**
 - **Bachovy esence + lahvička "na míru"** - Dle domluvy a vyplnění dotazníku v klidu domova vám namíchám lahvičku esencí, kterou si vyzvednete u mě (v případě potřeby se setkáme v mé chaloupce - poradně) - **500 Kč**
 

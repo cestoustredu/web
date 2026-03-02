@@ -27,5 +27,5 @@ Jsem terapeutka celostní medicíny. Vždy jsem měla ráda les, byliny, už jak
 ## Celoživotní vzdělávání
 
 Neustále se vzdělávám a rozšiřuji své znalosti v oblasti přírodní medicíny,
-celostního přístupu k zdraví a moderních diagnostických metod. Věřím, že
+celostního přístupu ke zdraví a moderních diagnostických metod. Věřím, že
 kvalitní péče vyžaduje neustálý profesní růst a aktuální znalosti.
