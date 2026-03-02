@@ -10,7 +10,7 @@ permalink: /kontakt/
 
 [{{ site.phone }}](tel:{{ site.phone | replace: ' ', '' }})
 
-Pro objednání, prosím, pište sms, email či využijte whatsapp, případně volejte. Ozvu se vám, jakmile to bude možné.
+Pro objednání,prosím, pište sms, email či využijte whatsapp, případně volejte. Ozvu se vám, jakmile to bude možné.
 Po–Pá: 9:00–18:00
 </div>
 
@@ -48,7 +48,7 @@ Pro objednání konzultace mě, prosím, kontaktujte sms, whatsapp nebo emailem.
 [Zavolat {{ site.phone }}](tel:{{ site.phone | replace: ' ', '' }}){: .btn .btn-primary }
 [Napsat email](mailto:{{ site.email }}){: .btn .btn-secondary }
 
-_Konzultace probíhají dle objednání či domluvy._
+Konzultace probíhají dle objednání či domluvy. Pro nákup produktů zavolejte či zazvoňte. Děkuji
 
 ## Máte dotazy?
 
