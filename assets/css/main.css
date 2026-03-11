@@ -751,6 +751,12 @@ img {
         font-size: 1rem;
     }
     
+    .container {
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px var(--spacing-sm);
+    }
+    
     .nav-toggle {
         display: flex;
     }
@@ -758,13 +764,18 @@ img {
     .nav-menu {
         position: absolute;
         top: 100%;
-        left: 0;
         right: 0;
-        background: transparent;
+        left: auto;
+        background: var(--bg-white);
         flex-direction: column;
         padding: var(--spacing-md);
         box-shadow: var(--shadow-md);
         display: none;
+        z-index: 1000;
+        min-width: 250px;
+        border-radius: var(--radius-md);
+        margin-top: 0.5rem;
+        margin-right: var(--spacing-sm);
     }
     
     .nav-menu.active {
@@ -784,6 +795,11 @@ img {
         flex-direction: column;
         text-align: center;
         gap: var(--spacing-sm);
+    }
+    
+    .page-content, .service-content {
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 

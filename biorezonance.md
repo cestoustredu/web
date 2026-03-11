@@ -67,6 +67,8 @@ Analýza, která během několika minut poskytuje komplexní přehled o stavu:
 - Těžkých kovů v těle
 - Vitamínů a stopových prvků
 
+<img src="{{ '/assets/images/thumbs_oberon.jpg' | relative_url }}" alt="Certifikát a vzdělání">
+
 {: .text-center}
 [Objednat vyšetření]({{ '/kontakt/' | relative_url }}){: .btn .btn-primary }
 [Další metody]({{ '/metody/' | relative_url }}){: .btn .btn-outline }

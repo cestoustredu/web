@@ -22,6 +22,7 @@ Po–Pá: 9:00–18:00
 
 <div class="card" markdown="1">
 ### 📍 Kde mě najdete
+**Andrea Lustigová**
 
 **{{ site.address }}**   
 **{{ site.city }}**
