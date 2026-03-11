@@ -21,6 +21,10 @@ Jsem terapeutka celostní medicíny. Vždy jsem měla ráda les, byliny, už jak
 <img src="{{ '/assets/images/IMG_20260211_134918916_MFNR.jpg' | relative_url }}" alt="Certifikát a vzdělání">
 <img src="{{ '/assets/images/IMG_20260211_134935362_MFNR.jpg' | relative_url }}" alt="Certifikát a vzdělání">
 <img src="{{ '/assets/images/IMG_20260211_135216362_MFNR_PORTRAIT.jpg' | relative_url }}" alt="Certifikát a vzdělání">
+<img src="{{ '/assets/images/1000008769.jpg' | relative_url }}" alt="Certifikát a vzdělání">
+<img src="{{ '/assets/images/1000008767.jpg' | relative_url }}" alt="Certifikát a vzdělání">
+<img src="{{ '/assets/images/1000008768.jpg' | relative_url }}" alt="Certifikát a vzdělání">
+
 
 </div>
 
