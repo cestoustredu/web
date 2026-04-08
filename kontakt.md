@@ -27,7 +27,14 @@ Po–Pá: 9:00–18:00
 **{{ site.address }}**   
 **{{ site.city }}**
 
+**IČO: 24891711**
+
 Parkování u domu. Bezbarierový přístup.
+
+<div class="ordinace-photos">
+  <img src="{{ '/assets/images/IMG_20260402_112053_175.jpg' | relative_url }}" alt="ordinace" loading="lazy">
+  <img src="{{ '/assets/images/IMG_20260402_112123_444.jpg' | relative_url }}" alt="ordinace" loading="lazy">
+</div>
 
 <iframe
 	title="Mapa - Vančurova 97/3, Slaný"
