@@ -25,10 +25,14 @@ Po–Pá: 9:00–18:00
 **Andrea Lustigová**
 
 **{{ site.address }}**   
-**{{ site.city }}**
 
+<<<<<<< HEAD
+
+
+=======
 **IČO: 24891711**
 
+>>>>>>> a3723de8798776c36ffc804182ff2c0df76b75ee
 Parkování u domu. Bezbarierový přístup.
 
 <div class="ordinace-photos">

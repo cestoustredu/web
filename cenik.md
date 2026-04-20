@@ -19,7 +19,6 @@ permalink: /cenik/
 ## Důležité informace
 
 - Ceny jsou orientační a mohou se lišit podle individuálních potřeb
-- První konzultace doporučuji komplexní zhodnocení
 - Následné konzultace jsou kratší a zaměřují se na kontrolu a úpravu terapie
 - Jednotlivá vyšetření lze kombinovat podle potřeby
 - Při opakovaných návštěvách možnost balíčků konzultací za zvýhodněnou cenu
