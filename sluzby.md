@@ -7,7 +7,7 @@ permalink: /sluzby/
 
 ## Individuální konzultace
 
-Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu, hledám a navrhuji cesty k jeho zlepšení. Při konzultaci využívám moderní technologie a znalosti principů Tradiční čínské medicíny,vitálních hub a bylinných směsí TČM - tinktur Mycomedica, léčivých bylin, přípravků informační medicíny Joalis, Bachových květových esencí, systému buněčných solí dr.Schüslera. ale i sílu  přírodních mastí a další vhodné doplňky k regeneraci, detoxikaci a k nastavení změn zdravého životního stylu.
+Každá konzultace je individuální a přizpůsobena vašim potřebám. Věnuji se komplexnímu zhodnocení vašeho zdravotního stavu, hledám a navrhuji cesty k jeho zlepšení. Při konzultaci využívám moderní technologie a znalosti principů Tradiční čínské medicíny,vitálních hub a bylinných směsí TČM - tinktur Mycomedica, léčivých bylin, kvalitních zelených potravin Green Ways, přípravků informační medicíny Joalis, Bachových květových esencí, systému buněčných solí dr.Schüslera. ale i sílu  přírodních mastí a další vhodné doplňky k regeneraci, detoxikaci a k nastavení změn zdravého životního stylu.
 
 ### Jak probíhá návštěva
 
