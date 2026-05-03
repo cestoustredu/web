@@ -24,15 +24,14 @@ Po–Pá: 9:00–18:00
 ### 📍 Kde mě najdete
 **Andrea Lustigová**
 
-**{{ site.address }}**   
+**{{ site.address }}**
 
-<<<<<<< HEAD
+**{{ site.city }}**
 
+**274 01**
 
-=======
 **IČO: 24891711**
 
->>>>>>> a3723de8798776c36ffc804182ff2c0df76b75ee
 Parkování u domu. Bezbarierový přístup.
 
 <div class="ordinace-photos">
