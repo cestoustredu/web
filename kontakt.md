@@ -4,6 +4,10 @@ title: Kontakt
 subtitle: Těším se na setkání s vámi
 permalink: /kontakt/
 ---
+<div class="profile-photo-wrap">
+  <img src="{{ '/assets/images/IMG_20240729_154205167_HDR~3.jpg' | relative_url }}" alt="Andrea Lustigová – terapeutka" class="profile-photo" loading="lazy">
+</div>
+
 <div class="cards-grid" markdown="1">
 <div class="card" markdown="1">
 ### 📞 Telefon
